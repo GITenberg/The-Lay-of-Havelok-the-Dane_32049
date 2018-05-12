@@ -1,0 +1,36 @@
+_repo: The-Lay-of-Havelok-the-Dane_32049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Madden, Frederic
+    alias: Madden, F. (Frederic), Sir
+    birthdate: 1801
+    deathdate: 1873
+    gutenberg_agent_id: '35636'
+    url: http://www.gutenberg.org/2009/agents/35636
+  - agent_name: Skeat, Walter W. (Walter William)
+    alias: Skeat, Walter William
+    birthdate: 1835
+    deathdate: 1912
+    gutenberg_agent_id: '4590'
+    url: http://www.gutenberg.org/2009/agents/4590
+    wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32049'
+  lccn: '12017804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Havelok the Dane (Legendary character) -- Romances'
+- !lcc 'PR'
+title: The Lay of Havelok the Dane
+url: http://www.gutenberg.org/ebooks/32049
